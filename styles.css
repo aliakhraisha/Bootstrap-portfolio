@@ -1,21 +1,25 @@
 
-/* Desktop devices (768px and up) */
-@media only screen and (min-width: 768px) {
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@500&display=swap');
 
 /* <!-------- CSS Reset --------> */
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  ul,
-  li {
-    padding: 0;
-    margin: 0;
-  }
-  
-  /* <!-------- Body --------> */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+ul,
+li {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+    font-family: 'poppins', sans-serif;
+  }
+  
+  .nav-item {
+    padding-left : 1em;
+    padding-right : 1em;
 }
