@@ -1,5 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@500&display=swap");
 
 /* <!-------- CSS Reset --------> */
 
@@ -16,12 +15,12 @@ li {
 }
 
 body {
-    font-family: 'poppins', sans-serif;
-  }
-  
-  .nav-item {
-    padding-left : 1em;
-    padding-right : 1em;
+  font-family: "poppins", sans-serif;
+}
+
+.nav-item {
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 #hello {
@@ -33,12 +32,12 @@ body {
   background-size: contain;
 }
 
-.header{
+.header {
   width: 33%;
   height: 50%;
   margin: auto auto 190px 160px;
 }
-.a-flex{
+.a-flex {
   flex-direction: column;
 }
 
@@ -46,7 +45,7 @@ body {
   padding-top: 200px;
   padding-bottom: 200px;
   gap: 65px;
-  height:100vh;
+  height: 100vh;
 }
 
 .pt-5 {
@@ -55,17 +54,17 @@ body {
 
 #contact {
   width: 100%;
-  background-image: url("images/image-geometry_6.svg"), 
-  url("images/image-geometry_7.svg");
-  background-position: left top, right bottom+100px;
+  background-image: url("images/image-geometry_6.svg"),
+    url("images/image-geometry_7.svg");
+  background-position: left top, right bottom + 100px;
   background-size: 20%, 20%;
   background-repeat: no-repeat;
 }
-.center{
+.center {
   margin-top: 40px;
 }
 
-footer{
+footer {
   margin-top: 65px;
 }
 
@@ -75,4 +74,34 @@ footer{
   color: #fff;
   gap: 20px;
   margin-top: 40px;
+}
+
+button a {
+  padding: 20px 40px;
+  color: #fff;
+  text-decoration: none;
+}
+
+#language {
+  background: #1c528a;
+  border-style: none;
+  width: 300px;
+  padding: 20px 40px;
+  margin-top: 20px;
+}
+
+#framework {
+  background: #e2505c;
+  border-style: none;
+  width: 300px;
+  padding: 20px 40px;
+  margin-top: 20px;
+}
+
+#skill {
+  background: #febf52;
+  border-style: none;
+  width: 300px;
+  padding: 20px 40px;
+  margin-top: 20px;
 }
