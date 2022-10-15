@@ -9,6 +9,7 @@
 
 - HTML, CSS
 - VSC, github
+- BS 5
 
 ## Visit My Site 
 
@@ -16,8 +17,7 @@
 
 ## Setup
 
-- To clone this Repo run the this command on your terminal:
-git clone git@github.com:aliakhraisha/Bootstrap-portfolio.git
+* Clone the repo: `git clone git@github.com:aliakhraisha/Bootstrap-portfolio.git`
 
 ## Authors
 
@@ -26,6 +26,12 @@ git clone git@github.com:aliakhraisha/Bootstrap-portfolio.git
 - GitHub: [aliakhraisha@githubhandle](https://github.com/aliakhraisha)
 - Twitter: [alia_khraish@twitterhandle](https://twitter.com/alia_khraisha)
 - LinkedIn:[engaliakhraisha@LinkedIn](https://www.linkedin.com/in/engaliakhraisha/)
+
+👤 **Author2**
+
+- GitHub: 
+- Twitter:
+- LinkedIn:
 
 ## 🤝 Contributing
 
