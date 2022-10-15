@@ -56,7 +56,7 @@ body {
   width: 100%;
   background-image: url("images/image-geometry_6.svg"),
     url("images/image-geometry_7.svg");
-  background-position: left top, right bottom + 100px;
+  background-position: left top, right bottom+100px;
   background-size: 20%, 20%;
   background-repeat: no-repeat;
 }
@@ -80,6 +80,15 @@ button a {
   padding: 20px 40px;
   color: #fff;
   text-decoration: none;
+}
+#about{  
+  height: 100vh;
+  background-image: url("images/image_dots_with_teal.svg");
+  background-position: right +100px top+100px;
+  background-size: 20%;
+  background-repeat: no-repeat;
+  padding-top: 200px;
+  padding-bottom: 100px;
 }
 
 #language {
