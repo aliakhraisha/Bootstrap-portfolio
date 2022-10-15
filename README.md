@@ -4,20 +4,17 @@
 
 > Set up a "portfolio" project using Bootstrap.
 
-
 ## Built With
 
 - HTML, CSS
 - VSC, github
+- BS 5
 
-## Visit My Site 
-
-
+## Visit My Site
 
 ## Setup
 
-- To clone this Repo run the this command on your terminal:
-git clone git@github.com:aliakhraisha/Bootstrap-portfolio.git
+- Clone the repo: `git clone git@github.com:aliakhraisha/Bootstrap-portfolio.git`
 
 ## Authors
 
@@ -26,6 +23,14 @@ git clone git@github.com:aliakhraisha/Bootstrap-portfolio.git
 - GitHub: [aliakhraisha@githubhandle](https://github.com/aliakhraisha)
 - Twitter: [alia_khraish@twitterhandle](https://twitter.com/alia_khraisha)
 - LinkedIn:[engaliakhraisha@LinkedIn](https://www.linkedin.com/in/engaliakhraisha/)
+
+👤 **Author2**
+
+Name :Anwaar Salam
+
+- GitHub: [Anwaar12](https://github.com/Anwaar12)
+- Twitter: [Anwaar154](https://twitter.com/Anwaar154)
+- LinkedIn: [Anwaar12](https://www.linkedin.com/in/anwaar-salam-61a3821b0/)
 
 ## 🤝 Contributing
 
